@@ -1,0 +1,12 @@
+This repository contains my solution to the JanataHack - Mobility Analytics Hackathon conducted by Analytics Vidhya.
+
+The aim of the hackathon is to train a model on the given train data and predict the 'Surge_Pricing_Type' for the test data.
+This is a Multi-Class Classification problem.
+
+I have tried the following models in my Code after performing basic featuring engineering:
+
+Logistic Regression
+Random Forest Classifier
+Decision Tree Classifier
+SVC 
+Convolutional Neural Network
